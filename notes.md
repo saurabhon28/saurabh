@@ -85,3 +85,7 @@ Linius Torvalds created a kernel and combined it with the tools, compilers and l
 7. then commit the file with command
 
        git commit "message"
+
+**github**
+
+It is a place where repository maintained remotely
